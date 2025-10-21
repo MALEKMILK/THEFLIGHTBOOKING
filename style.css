@@ -1,0 +1,47 @@
+html {
+background-image: url(world-landmarks-1.jpg);
+box-sizing: border-box;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+*  {
+box-sizing: inherit;
+font-family: 'raleway', sans-serif;
+}
+body{
+background: rgba(255,255, 255, 0.74);
+width: 90%;
+max-width: 800px;
+margin: 50px auto;
+font-family: 'raleway';
+padding: 20px;
+border-radius: 10px;
+}
+h1,
+p {
+text-align: center;
+margin: auto;
+}
+
+label{
+display: block;
+margin: 1em 0.2em;
+}
+
+/* single-line text, checkbox, and button*/
+input,
+select,
+textarea {
+display: block;
+width: 100%;
+padding: .3em;
+font-size: 20px; 
+background-color: #fbfbfb; 
+border: solid 1px #ccc; 
+resize: vertical;
+border-radius: 10px; 
+}
