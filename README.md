@@ -1,2 +1,2 @@
 # THEFLIGHTBOOKING
-its is a website where you can plane you trip check flight tickets
+its is a website where you can plan you trip check flight tickets
